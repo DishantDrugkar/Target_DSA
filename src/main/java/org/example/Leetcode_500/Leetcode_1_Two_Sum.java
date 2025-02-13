@@ -2,7 +2,7 @@ package org.example.Leetcode_500;
 
 import java.util.Arrays;
 
-public class Leetcode_2_Two_Sum {
+public class Leetcode_1_Two_Sum {
     public static void main(String[] args) {
         int nums[] = {6,7,8,24,56,6};
         int target = 30;
