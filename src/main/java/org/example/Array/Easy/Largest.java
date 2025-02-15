@@ -2,10 +2,10 @@ package org.example.Array.Easy;
 
 public class Largest {
     public static void main(String[] args) {
-        int nums[] = {1,2,3,4,5,6};
+        int nums[] = {10,5,10};
         System.out.println("Largest Element : " + getLargest(nums));
         System.out.println("Second Largest : " + getSecondLargest(nums));
-        System.out.println("Third Largest : " + getThirdLargest(nums));
+       // System.out.println("Third Largest : " + getThirdLargest(nums));
     }
     public static int getLargest(int nums[]){
         int largest = Integer.MIN_VALUE;
